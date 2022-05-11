@@ -2,15 +2,15 @@
     {
         "name": "BlackJack Game",
         "live": "https://anandpatel48.github.io/SEI-BlackJack/",
-        "git": "https://anandpatel48.github.io/SEI-BlackJack/",
-        "image": "https://imgur.com/a/9r3pElv",
+        "git": "https://github.com/anandpatel48/SEI-BlackJack",
+        "image": "https://i.imgur.com/LNemnxj.png",
         "description": "A BlackJack game made using js, css, html"
     },
     {
         "name": "Popcorn time fullstack app",
-        "live": "https://app.netlify.app/whatever",
-        "git": "http://www.github.com/username/reponame",
-        "image": "http://www.imgur.com/pictureofproject.png",
+        "live": "https://sei-popcorn-time.herokuapp.com/movies",
+        "git": "https://github.com/anandpatel48/SEI-Project-2-IMDB",
+        "image": "https://i.imgur.com/3EfrPvC.png",
         "description": "An IMDB type fullstack app usind nodeJs, CSS, HTML, MongoDb with user auth"
     }
 ]
